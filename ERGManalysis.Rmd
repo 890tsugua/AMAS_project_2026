@@ -56,4 +56,7 @@ summary(m1)
 m2 <- ergm(g ~ edges + nodematch("team"))
 summary(m2)
 ```
+```{r}
+#hahaha
+```
 
